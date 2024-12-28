@@ -2,3 +2,4 @@
 *.lck
 /versa-backups
 logo.svg
+.DS_Store
