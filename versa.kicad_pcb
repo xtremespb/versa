@@ -23335,6 +23335,39 @@
 			)
 		)
 	)
+	(gr_text "BOOT"
+		(at 168.025 74.125 0)
+		(layer "F.SilkS")
+		(uuid "3ee7f304-3aaf-4f8c-831d-7acbf48ec8f0")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.13)
+			)
+		)
+	)
+	(gr_text "RESET"
+		(at 212.975 74.85 90)
+		(layer "F.SilkS")
+		(uuid "50e53787-61a8-49d6-858d-066596c3dcf3")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.13)
+			)
+		)
+	)
+	(gr_text "DEFAULTS"
+		(at 212.975 80.875 90)
+		(layer "F.SilkS")
+		(uuid "58ea178c-e53d-40e9-8e8b-88ebe4f0b122")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.13)
+			)
+		)
+	)
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
